@@ -1,0 +1,8 @@
+node_modules/
+public
+
+.gatsby-context.js
+.project
+.projectile
+
+pages/.manifest

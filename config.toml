@@ -1,0 +1,12 @@
+siteTitle = "Test Blog, Please Ignore"
+siteDescr = "Slowly figuring out how these dang computers work."
+siteAuthor = "James A Keene"
+
+siteTelegramUrl = "#"
+siteTwitterUrl = "https://twitter.com/_jak"
+siteGithubUrl = "https://github.com/jamak"
+siteEmailUrl = "mailto:me@jamesakeene.com"
+siteRssUrl = "#"
+siteVkUrl = "#"
+
+linkPrefix = "/blog"
