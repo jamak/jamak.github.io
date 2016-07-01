@@ -9,4 +9,4 @@ siteEmailUrl = "mailto:me@jamesakeene.com"
 siteRssUrl = "#"
 siteVkUrl = "#"
 
-linkPrefix = "/blog"
+linkPrefix = "/"
